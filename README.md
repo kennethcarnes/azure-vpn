@@ -14,7 +14,3 @@ https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/guides/ser
 4. Clone repository an edit subnets to fit your environment.
 
 5. Configure on-premise vpn device and verify connectivity.
-
-## Documentation
-[Cloud C2 Docs](https://docs.hak5.org/cloud-c2/getting-started/installation-and-setup)
-[Cloud C2 Video](https://www.youtube.com/watch?v=rgmL75ZBfSI https://www.youtube.com/watch?v=TIpx_ENurLY)
